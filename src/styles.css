@@ -100,3 +100,24 @@
   width: 190px;
   align-items: start;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quoter {
+  font-size: 30px;
+  font-weight: 700;
+}
