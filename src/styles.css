@@ -1,0 +1,29 @@
+* {
+  font-family: "Roboto";
+  margin: 0;
+}
+
+.navigation-bar,
+.hero {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.header-logo {
+  font-size: 24px;
+}
+.navigation-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navigation-links {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  margin-right: 5px;
+}
